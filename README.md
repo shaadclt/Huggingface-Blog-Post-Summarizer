@@ -47,19 +47,17 @@ https://github.com/shaadclt/Huggingface-Blog-Post-Summarizer.git
 pip install -r requirements.txt
 ```
 
-3. Download and load the pre-trained model from the Hugging Face model hub. You can find example code and model names in the project files.
-
 ## Usage
 
-To summarize a blog post using the provided code, follow these steps:
+1. Run the `app.py` script:
 
-1. Import the necessary classes and functions from the project files into your Python script.
+```
+streamlit app.py
+```
 
-2. Create an instance of the summarizer class by specifying the desired model name or path.
+2. Paste the desired Blog Post URL.
 
-3. Provide the blog post text as input to the summarizer's `summarize` function.
-
-4. Receive the generated summary as the output and utilize it for further analysis or display.
+3. Receive the generated summary as the output and utilize it for further analysis or display.
 
 Feel free to customize the summarizer according to your specific requirements, such as adjusting the summary length or experimenting with different pre-trained models.
 
