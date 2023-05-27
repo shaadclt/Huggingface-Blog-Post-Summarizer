@@ -52,7 +52,7 @@ pip install -r requirements.txt
 1. Run the `app.py` script:
 
 ```
-streamlit app.py
+streamlit run app.py
 ```
 
 2. Paste the desired Blog Post URL.
