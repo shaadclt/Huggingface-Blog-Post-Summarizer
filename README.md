@@ -1,5 +1,7 @@
 # Blog Post Summarizer using Hugging Face
 
+![blog - github](https://github.com/shaadclt/Huggingface-Blog-Post-Summarizer/assets/98437584/ee2301c0-473f-4150-821c-b583a995a652)
+
 This project provides a blog post summarizer using Hugging Face's Transformers library. It allows you to generate concise summaries of long blog posts or articles using state-of-the-art natural language processing models.
 
 ## Table of Contents
